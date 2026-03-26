@@ -33,15 +33,6 @@ The goal of this repository is to document my practice in writing small, task-fo
 This repository is based on course practice materials and is maintained as a learning portfolio.  
 Over time, I plan to expand it with cleaner standalone automation examples and original projects.
 
-## Next Steps
-
-Planned improvements:
-
-- add explanations for each lab
-- include setup and run instructions
-- add tests for selected scripts
-- refactor the best exercises into independent portfolio projects
-
 ## Author
 
 Valentyn Verovkin  
